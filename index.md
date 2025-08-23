@@ -10,7 +10,6 @@ title: Resume
 - **Portfolio**: [jackwalton.xyz](https://jackwalton.xyz)
 - **GitHub**: [jack-walton](https://github.com/jack-walton)
 - **X / Twitter**: [@suburbanrunaway](https://twitter.com/suburbanrunaway)
-
 - **Writing sample**: *[Pruning the Blog: Digital Editing Tools](https://jackwalton.xyz/blog/digital-editing-tools)*
 
 ## Experience
