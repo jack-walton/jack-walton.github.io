@@ -11,7 +11,7 @@ Writer and researcher with a strong background in documentation, project managem
 
 ### Technical Writer
 
-**Oracle | Full-time**
+**Oracle**
 
 *October 2021 - Present*
 
@@ -31,7 +31,7 @@ Writer and researcher with a strong background in documentation, project managem
 
 ### Substitute Library Assistant
 
-**Kansas City Public Library | Part-time**
+**Kansas City Public Library**
 
 *September 2021 - Present*
 
@@ -42,7 +42,7 @@ Writer and researcher with a strong background in documentation, project managem
 
 ### Research Associate
 
-**University of Missouri - Kansas City | Part-time**
+**University of Missouri - Kansas City**
 
 *August 2020 - May 2021*
 
@@ -54,6 +54,8 @@ Writer and researcher with a strong background in documentation, project managem
 
 ### University of Missouri - Kansas City
 
-**Bachelor of Arts in English Language and Literature | Magna Cum Laude (3.87 GPA)**
+**Bachelor of Arts in English Language and Literature**
 
 *Minor in Medieval and Early Modern Studies*
+
+Magna cum laude (3.87 GPA)
