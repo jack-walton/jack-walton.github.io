@@ -7,10 +7,7 @@ title: Resume
 
 *Writer, researcher, and content designer*
 
-- **Portfolio**: [jackwalton.xyz](https://jackwalton.xyz)
-- **GitHub**: [jack-walton](https://github.com/jack-walton)
-- **X / Twitter**: [@suburbanrunaway](https://twitter.com/suburbanrunaway)
-- **Writing sample**: *[Pruning the Blog: Digital Editing Tools](https://jackwalton.xyz/blog/digital-editing-tools)*
+**Writing sample**: *[Pruning the Blog: Digital Editing Tools](https://jackwalton.xyz/blog/digital-editing-tools)*
 
 ## Experience
 
@@ -32,7 +29,7 @@ title: Resume
 - Updated documentation to adhere to web content accessibility guidelines (WCAG)
 - Edited testing guidelines for new product features and validated workflows
 - Prioritized deadlines and projects using agile methodologies in Jira
-- Trained and served as a mentor to 3 new hires
+- Trained and served as a mentor to three new hires
 - Developed Darwin Information Typing Architecture (DITA) XML documentation in Oxygen
 - Created instructional video content using Camtasia and edited images using Snagit
 
@@ -57,7 +54,7 @@ Magna cum laude (3.87 GPA)
 - Developed a documentation repository using the Nextra theme
 - Experimented with the v0 AI model to enhance and develop React components
 - Created a resume subdomain with Jekyll and a gallery subdomain with Hugo and SASS (currently in development).
-- Published 5+ blog posts outlining my developer experience
+- Published 4+ blog posts outlining my developer experience
 
 ### CODICES Digital Humanities Lab
 
@@ -65,4 +62,4 @@ Magna cum laude (3.87 GPA)
 
 - **Project link**: [Homage to Medieval Langres](https://differentvisions.org/homage-to-medieval-langres/)
 - Experimented with tools to perform quantitative, linguistic analysis on documents
-- Digitized a manuscript, translated manuscript from French to English, published research in a peer-reviewed journal
+- Digitized a historical manuscript, translated manuscript from French to English, published research in a peer-reviewed journal
