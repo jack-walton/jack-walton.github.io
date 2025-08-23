@@ -25,7 +25,7 @@ title: Resume
 - Used official instances of Grok and ChatGPT AI models to streamline workflows and assist with copyediting tasks
 - Attended meetings with human factors researchers to develop an end-to-end user workflow for front-end applications
 - Collaborated with designers to ensure that UI text adhered to the design system guidelines for voice and tone
-- Proactively responded to user feedback to improve documentation clarity and effectiveness
+- Proactively responded to user feedback to improve documentation for clarity and effectiveness
 - Updated documentation to adhere to web content accessibility guidelines (WCAG)
 - Edited testing guidelines for new product features and validated workflows
 - Prioritized deadlines and projects using agile methodologies in Jira
