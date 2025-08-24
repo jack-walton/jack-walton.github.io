@@ -1,3 +1,7 @@
+I made this sit using the Lanyon theme below. This README file will be updated as I customize the site further.
+
+
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
